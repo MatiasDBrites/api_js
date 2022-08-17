@@ -1,1 +1,4 @@
-# ejercicio_consumo_de_apis
+# Ejercicio de Consumo de Api 
+
+Aplicado con FETCH
+
